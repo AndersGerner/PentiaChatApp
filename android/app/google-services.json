@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "150056297933",
+    "project_id": "pentiachatapp-af224",
+    "storage_bucket": "pentiachatapp-af224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150056297933:android:7acc6a55a6ce320921d084",
+        "android_client_info": {
+          "package_name": "com.onevo.pentia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150056297933-fvljakcr94n0ic0aoagu4a1coid41333.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABFUUc7kE_2fke94n1zilZMEVvCq7vvec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150056297933-fvljakcr94n0ic0aoagu4a1coid41333.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150056297933-nd1qqq1c3jgpgg9umjc025vr9cp213m5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onevo.pentia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150056297933:android:44ce191c6764796521d084",
+        "android_client_info": {
+          "package_name": "com.onevo.pentia.pentiachatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150056297933-icf361ep81jkq7uqvr8de0mnbgmp5oh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onevo.pentia.pentiachatapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "150056297933-fvljakcr94n0ic0aoagu4a1coid41333.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABFUUc7kE_2fke94n1zilZMEVvCq7vvec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150056297933-fvljakcr94n0ic0aoagu4a1coid41333.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150056297933-nd1qqq1c3jgpgg9umjc025vr9cp213m5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onevo.pentia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

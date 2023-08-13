@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>150056297933-nd1qqq1c3jgpgg9umjc025vr9cp213m5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.150056297933-nd1qqq1c3jgpgg9umjc025vr9cp213m5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>150056297933-k0kbmb76nbnnkqqj620sh100kk6k1sqh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBELI62whpec_Nfve5FQs9-ZlvDQJPEslk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>150056297933</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.onevo.pentia</string>
+	<key>PROJECT_ID</key>
+	<string>pentiachatapp-af224</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pentiachatapp-af224.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:150056297933:ios:5165a44946cb2df921d084</string>
+</dict>
+</plist>
