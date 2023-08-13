@@ -5,10 +5,13 @@ This is a chat application built with React Native, Firebase, and other modern t
 ## Folder Structure
 
 ```bash
+├── functions
+│ ├── src
+│ │ ├── index.ts
 ├── src
 │ ├── components
-│ │ ├── ChatInput
-│ │ ├── ChatMessageRow
+│ │ ├── ChatInput.tsx
+│ │ ├── ChatMessageRow.tsx
 │ │ └── ...
 │ ├── hooks
 │ │ ├── useChatMessages.ts
@@ -53,12 +56,23 @@ This is a chat application built with React Native, Firebase, and other modern t
    npm install
    ```
    
-3. **Run the project**   
+3. **Run the project**
+   In one terminal window, run:
+   ```bash
+   npm run start:clear
+   ```   
+   In a different terminal window run:
    ```bash
    npx react-native run-ios
    ```
    ```bash
    npx react-native run-android
+   ```
+
+4. **Cloud functions**
+   The functions directory contains Firebase Cloud Functions that handle backend operations like sending notifications. After making any changes to these functions, deploy them using:
+   ```bash
+   npm run deploy:functions
    ```
    
 ## To-Do List
@@ -78,6 +92,8 @@ This is a chat application built with React Native, Firebase, and other modern t
 ### Pending Tasks:
 - [ ] Set up push notifications for new messages on iOS.
 - [ ] Design and implement other app screens (e.g., user profile, settings).
+- [ ] Improve chat screen design
+- [ ] Use avatar from users login method
 - [ ] Review and update Firebase Storage rules for better security.
 - [ ] Optimize the app for performance and responsiveness.
 - [ ] Setup localization
