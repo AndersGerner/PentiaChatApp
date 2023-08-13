@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-native",
+    "noImplicitAny": true
+  },
+  "include": [
+    "src",
+    "functions/**/*.ts",
+    "functions/**/*.js"
+  ]
+}
